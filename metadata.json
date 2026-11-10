@@ -1,0 +1,6 @@
+{
+  "name": "Real Android Virtual Machine",
+  "description": "Bảng điều khiển máy ảo Android thực tế sử dụng Kotlin, hỗ trợ QEMU VM kernel/system boot, ADB điều khiển, truyền phím/cảm ứng, log chuyên dụng và cài đặt APK thực tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
